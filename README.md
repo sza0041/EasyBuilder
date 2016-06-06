@@ -1,0 +1,2 @@
+# EasyBuilder
+Add some scripts
